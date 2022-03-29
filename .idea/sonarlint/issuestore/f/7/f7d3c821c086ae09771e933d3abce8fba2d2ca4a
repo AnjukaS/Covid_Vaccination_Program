@@ -1,0 +1,82 @@
+
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ĞşÕ¡8ãîõ÷«/
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(‹ì‚êøÿÿÿÿ8úıĞ÷«/
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(€œ×ôüÿÿÿÿ8úıĞ÷«/
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(ĞşÕ¡8ìàë÷«/
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8šÒé÷«/
+o
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ì€Úf8ìàë÷«/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8ù§Ô÷«/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»¦±™ùÿÿÿÿ8ù§Ô÷«/
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(‰ğØ8úıĞ÷«/
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ìàë÷«/
+U
+java:S1197¶"8Move the array designator from the variable to the type.(ñîšu8ìàë÷«/
+e
+java:S1192¥"GDefine a constant instead of duplicating this literal "booth " 4 times.(¨üÛü8ìàë÷«/
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(­½’ì8šÒé÷«/
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(ùÇ€µûÿÿÿÿ8ìàë÷«/
+U	java:S106Í"9Replace this use of System.out or System.err by a logger.(…²Ç8ìàë÷«/
+[	java:S106×"9Replace this use of System.out or System.err by a logger.(ùÇ€µûÿÿÿÿ8ìàë÷«/
+V	java:S106"9Replace this use of System.out or System.err by a logger.( À¥8ìàë÷«/
+V	java:S106¸"9Replace this use of System.out or System.err by a logger.(ûòŠã8ìàë÷«/
+V	java:S106“"9Replace this use of System.out or System.err by a logger.( À¥8ìàë÷«/
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(¨üÛü8ìàë÷«/
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(Š÷”Úıÿÿÿÿ8ìàë÷«/
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(ıÛŒ€8ìàë÷«/
+m
+java:S2259I"K"NullPointerException" will be thrown when invoking method "printBooths()".(… ÍÃşÿÿÿÿ8şÿê÷«/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ì±¡—ÿÿÿÿÿ8ìàë÷«/
+V
+java:S1197œ"8Move the array designator from the variable to the type.(ƒ¸Ûı8ìàë÷«/
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(ØÃÄ‚8ìàë÷«/
+[	java:S106ã"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8šÒé÷«/
+?
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ìàë÷«/
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(÷ëÎ³ùÿÿÿÿ8ìàë÷«/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(éÿ”ìùÿÿÿÿ8ìàë÷«/
+[
+java:S1197­"8Move the array designator from the variable to the type.(æıÃˆşÿÿÿÿ8ìàë÷«/
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(ıíÓæ8úıĞ÷«/
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(Œá³·øÿÿÿÿ8šÒé÷«/
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(Ô­¾®8ìàë÷«/
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8šÒé÷«/
+[
+java:S1197¡"8Move the array designator from the variable to the type.(ƒöØ¥úÿÿÿÿ8ìàë÷«/
+V	java:S106ë"9Replace this use of System.out or System.err by a logger.(°ï¨¼8šÒé÷«/
+r
+java:S2095¸"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(·¿ƒ…ıÿÿÿÿ8ìàë÷«/
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(·Ù¸àùÿÿÿÿ8ìàë÷«/
+V	java:S106Å"9Replace this use of System.out or System.err by a logger.(à¸¨8ìàë÷«/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ìàë÷«/
+V	java:S106ä"9Replace this use of System.out or System.err by a logger.(ô¡Ã˜8ìàë÷«/
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(º°Ûªøÿÿÿÿ8úıĞ÷«/
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(›åğÎùÿÿÿÿ8úıĞ÷«/
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(È‹É”8úıĞ÷«/
+c
+java:S2147Â"ECombine this catch with the one at line 320, which has the same body.(ï­£Ä8ìàë÷«/
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ôÜñ‰ıÿÿÿÿ8ìàë÷«/
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(ØúêÖ8½Ûø«/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ºÿ³Ì8ìàë÷«/
+c
+java:S2147Ä"ECombine this catch with the one at line 320, which has the same body.(ıàÑÎ8ìàë÷«/
+p
+java:S2095·"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÓĞÊışÿÿÿÿ8šÒé÷«/
+n
+java:S2095£"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¿Öå£8ìàë÷«/
+c
+java:S2147©"ECombine this catch with the one at line 295, which has the same body.(ï­£Ä8ìàë÷«/
+[
+java:S1197Á"8Move the array designator from the variable to the type.(şâ‘âÿÿÿÿÿ8ìàë÷«/
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(Ô­¾®8ìàë÷«/
+q
+java:S2095¢"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ö“¯úÿÿÿÿ8šÒé÷«/
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(´¼ü“8£œì÷«/
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(õ‰Äáûÿÿÿÿ8úıĞ÷«/
+V	java:S106±"9Replace this use of System.out or System.err by a logger.(ıÛŒ€8ìàë÷«/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Ë²£Ÿ8úıĞ÷«/
+U	java:S106‡"9Replace this use of System.out or System.err by a logger.(îéÓz8úıĞ÷«/
+W
+java:S1172­"4Remove this unused method parameter "serviceCenter".(æıÃˆşÿÿÿÿ8ìàë÷«/
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8šÒé÷«/
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8šÒé÷«/

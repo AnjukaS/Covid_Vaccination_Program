@@ -1,0 +1,22 @@
+
+>
+java:S16434"Use a StringBuilder instead.(Ñ¨´çøÿÿÿÿ8Ê“İÿ«/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(²¹Õµ8´²€¬/
+:
+java:S1643"Use a StringBuilder instead.(×ÚÄ¯8Òèó‚¬/
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8µ”èÿ«/
+>
+java:S1643+"Use a StringBuilder instead.(§ä¶ùÿÿÿÿ8Ÿûèÿ«/
+>
+java:S1643("Use a StringBuilder instead.(ê²ôâşÿÿÿÿ8¯ÄÓÿ«/
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(«ˆÕùÿÿÿÿ8¶‡¡‚¬/
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(…‡Àıÿÿÿÿ8äÆ­€¬/
+k
+java:S1192("IDefine a constant instead of duplicating this literal "\nbooth " 3 times.(ê²ôâşÿÿÿÿ8ª‰Ûÿ«/
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(ûãöÕ8Š»¡‚¬/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(Š»š»8Õî¨€¬/
+t
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŸúùÆüÿÿÿÿ8Âá¹‚¬/
+t
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÀéÀ¯şÿÿÿÿ8äÆ­€¬/
